@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Web3 from 'web3';
 
-import CollabProject from './contracts/CollabProject.json';
+import CollabProject from '../contracts/CollabProject.json';
 
 function App() {
 
